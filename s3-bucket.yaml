@@ -9,5 +9,5 @@ Resources:
     DeletionPolicy: Delete
 
 Outputs:
-  ArtifactBucket:
-    Value: !Ref ArtifactBucket
+  SampleBucket:
+    Value: !Ref SampleBucket
